@@ -10,7 +10,7 @@ At CHSE, we aim to:
 
 **Enhance Accessibility**: Ensure our software solutions are user-friendly and accessible to researchers worldwide.
 
-#Our Projects
+# Our Projects
 
 Our organization encompasses a variety of projects designed to meet the multifaceted needs of the scientific community:
 
